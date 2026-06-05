@@ -1,0 +1,5 @@
+artifacts/
+outputs/
+outputs_*/
+__pycache__/
+*.pyc
