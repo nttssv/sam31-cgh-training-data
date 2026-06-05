@@ -1,0 +1,14 @@
+{
+  "images": 20,
+  "train_images": 16,
+  "test_images": 4,
+  "annotations": 1085,
+  "manifest_rows": 1291,
+  "categories": [
+    "nucleus",
+    "clear_cell_boundary",
+    "compact_cell_boundary",
+    "connective_tissue_candidate"
+  ],
+  "include_uncertain_in_coco": false
+}

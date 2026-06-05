@@ -1,0 +1,20 @@
+# Runtime outputs
+training_data/outputs/
+outputs/
+wandb/
+runs/
+
+# Large model artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Python/Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS sidecar files
+.DS_Store
+._*
